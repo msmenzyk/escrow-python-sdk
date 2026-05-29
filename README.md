@@ -1,5 +1,7 @@
 # MTL Escrow Python SDK
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 **Unofficial**, lightweight Python SDK for the [Escrow.com API](https://www.escrow.com/api/docs/reference)
 
 > ⚠️ This is a minimal client intended for prototyping.  
