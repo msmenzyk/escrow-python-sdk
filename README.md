@@ -1,6 +1,5 @@
 # MTL Escrow Python SDK
 
-[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
 
 **Unofficial**, lightweight Python SDK for the [Escrow.com API](https://www.escrow.com/api/docs/reference)
 
@@ -83,7 +82,7 @@ poetry run pytest -v
        "available": false,
        "documents_supported": []
      },
-     "email": "test@musictechlab.io",
+     "email": "mariusz@mtl.dev",
      "first_name": "Mariusz",
      "id": 3813415,
      "last_name": "Admin",
@@ -139,7 +138,7 @@ poetry run pytest -v
 
 - [Escrow.com API Basics](https://www.escrow.com/api/docs/basics)
 - [Escrow.com API Reference](https://www.escrow.com/api/docs/reference)
-- [MusicTech Lab](https://musictechlab.io)
+- [Mariusz Smenżyk](https://mtl.dev)
 
 ---
 
@@ -153,17 +152,17 @@ To report a vulnerability, please see [SECURITY.md](SECURITY.md).
 
 ## 🪪 License
 
-MIT License — © 2025 **MusicTech Lab**
-Built with ❤️ by MusicTech Lab.
+MIT License — © 2025 **Mariusz Smenżyk**
+Built with ❤️ by Mariusz Smenżyk.
 
 ---
 
 <div align="center">
-  MusicTech Lab - Rockstars Developers dedicated to the Music Industry<br>
-  <a href="https://musictechlab.io">Website</a>
+  Mariusz Smenżyk - Rockstars Developers dedicated to the Music Industry<br>
+  <a href="https://mtl.dev">Website</a>
   <span> | </span>
-  <a href="https://linkedin.com/company/musictechlab">LinkedIn</a>
+  <a href="https://linkedin.com/company/Mariusz Smenżyk">LinkedIn</a>
   <span> | </span>
-  <a href="https://musictechlab.io/contact">Let's talk</a><br>
-  Crafted by <a href="https://musictechlab.io">musictechlab.io</a>
+  <a href="https://mtl.dev/contact">Let's talk</a><br>
+  Crafted by <a href="https://mtl.dev">mtl.dev</a>
 </div>

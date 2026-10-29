@@ -2,11 +2,11 @@
 name = "mtl-escrow-python-sdk"
 version = "0.0.1"
 description = "A tiny Python SDK for Escrow.com API (unofficial)"
-authors = ["MusicTech Lab <mariusz.smenzyk@musictechlab.io>"]
+authors = ["Mariusz Smenżyk <mariusz@mtl.dev>"]
 readme = "README.md"
 license = "MIT"
-homepage = "https://github.com/musictechlab/mtl-escrow-python-sdk"
-repository = "https://github.com/musictechlab/mtl-escrow-python-sdk"
+homepage = "https://github.com/msmenzyk/mtl-escrow-python-sdk"
+repository = "https://github.com/msmenzyk/mtl-escrow-python-sdk"
 keywords = ["escrow", "payments", "sdk", "api"]
 classifiers = [
     "Programming Language :: Python :: 3",
