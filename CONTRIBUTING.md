@@ -33,7 +33,7 @@ Thank you for your interest in contributing! We welcome all contributions — bu
 
 ## Reporting Issues
 
-If you find a bug or have a feature request, please [open an issue](https://github.com/musictechlab/mtl-escrow-python-sdk/issues).
+If you find a bug or have a feature request, please [open an issue](https://github.com/msmenzyk/mtl-escrow-python-sdk/issues).
 
 ## Security
 
@@ -45,4 +45,4 @@ This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.
 
 ## Questions?
 
-Reach out at [musictechlab.io/contact](https://musictechlab.io/contact).
+Reach out at [mtl.dev/contact](https://mtl.dev/contact).
